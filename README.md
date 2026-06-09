@@ -30,8 +30,8 @@
 
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[Project One Name](https://github.com/Nigiddy/repo-name)** | A brief, 1-2 sentence description of the business problem this application solves. | `Next.js` `Tailwind` `Supabase` | [Live Demo](#) • [Source Code](#) |
-| **[Project Two Name](https://github.com/Nigiddy/repo-name)** | Payment-integrated automation tool designed to streamline user workflows. | `Node.js` `Express` `PostgreSQL` | [Live Demo](#) • [Source Code](#) |
+| **[MlamiBBQ](https://github.com/Nigiddy/mlami-bbq-website-magic)** | A brief, 1-2 sentence description of the business problem this application solves. | `Next.js` `Tailwind` `Supabase` | [Live Demo](#) • [Source Code](#) |
+| **[Qonnect](https://github.com/Nigiddy/Mpesa_Based-WiFi-Billing-System)** | Payment-integrated automation tool designed to streamline user workflows. | `Node.js` `Express` `PostgreSQL` | [Live Demo](#) • [Source Code](#) |
 
 *(Note: Replace the placeholders above with your actual top repositories to drive traffic to your code!)*
 
