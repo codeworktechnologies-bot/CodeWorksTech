@@ -10,7 +10,7 @@ Currently, I'm focused on mastering full-stack development, building SaaS produc
 
 ---
 
-## 🚀 Open For Work & Collaboration
+##  Open For Work & Collaboration
 
 I am available for:
 
@@ -25,9 +25,6 @@ I am available for:
 * Open Source Contributions
 
 If you're building something interesting, I'd love to collaborate.
-
----
-
 
 ---
 
@@ -64,18 +61,6 @@ If you're building something interesting, I'd love to collaborate.
 
 ---
 
-## 🤖 AI & Development
-
-I actively integrate AI into my workflow to improve productivity, research, and software quality.
-
-
-My philosophy is simple:
-
-> Use AI as a force multiplier, not a replacement for engineering fundamentals.
-
----
-
----
 
 ## 📈 GitHub Statistics
 
@@ -83,25 +68,20 @@ My philosophy is simple:
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nigiddy\&theme=tokyonight)
 
 ---
 
-## 💻 Most Used Languages
+##  Most Used Lan
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nigiddy\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 📊 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nigiddy\&theme=tokyo-night)
-
----
-
-## 🌱 Currently Learning
+##  Currently Learning
 
 * Advanced Full-Stack Development
 * Docker & Containerization
@@ -109,21 +89,6 @@ My philosophy is simple:
 * Scalable SaaS Architecture
 * AI Integration Patterns
 * Cloud Infrastructure
-
----
-
-## 🎯 Areas of Interest
-
-* Web Development
-* SaaS Products
-* Automation
-* Artificial Intelligence
-* Business Systems
-* Open Source
-* Startups
-* Product Design
-
----
 
 ---
 
@@ -142,14 +107,10 @@ I'm always open to:
 * GitHub: https://github.com/Nigiddy
 * LinkedIn: https://www.linkedin.com/in/gideonpapa
 * Portfolio: https://www.gideonpapa.me
-* Email: mailto:gideonpapa9@gmail.com
+
 
 ---
 
-## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=Nigiddy\&color=blue)
-
----
 
 > “Build useful things. Improve every day. Stay curious.”
