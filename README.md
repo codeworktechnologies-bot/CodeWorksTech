@@ -5,7 +5,7 @@
 </a>
 
 <p align="center">
-  <em>I design and develop scalable web applications — from online ordering platforms and billing systems to payment-integrated SaaS tools and automation solutions. My focus is on turning ideas into products people can actually use.</em>
+  <em>I design and develop scalable web applications — from online ordering platforms and billing systems to payment-integrated SaaS tools and automation solutions. My focus is on turning ideas into products that solve real world problems.</em>
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gideonpapa.me-0ea5e9?style=flat-square&logo=globe&logoColor=white)](https://www.gideonpapa.me)
@@ -16,24 +16,20 @@
 
 ---
 
-## 👨‍💻 Quick Look
+##  Quick Look
 
-* 🔭 **Currently working on:** [Your Current Project/SaaS Name](#)
-* 🌱 **Deepening my expertise in:** Full-stack architecture, scalable SaaS, and AI workflows.
-* 🤝 **Looking to collaborate on:** Open-source projects, business automation tools, and innovative SaaS ideas.
-* 💬 **Ask me about:** React/Next.js, Node.js, Payment Integrations (M-Pesa, Stripe), and System Design.
-* 📫 **How to reach me:** [gideonpapa9@gmail.com](mailto:gideonpapa9@gmail.com)
-
+*  **Currently working on:** [MlamiBBQ](https://mlamibbq.vercel.app/)
+*  **Deepening my expertise in:** Full-stack architecture, scalable SaaS, and AI workflows.
+*  **Ask me about:** React/Next.js, Node.js, Payment Integrations (M-Pesa, Stripe), and System Design. 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[MlamiBBQ](https://github.com/Nigiddy/mlami-bbq-website-magic)** | A brief, 1-2 sentence description of the business problem this application solves. | `Next.js` `Tailwind` `Supabase` | [Live Demo](#) • [Source Code](#) |
-| **[Qonnect](https://github.com/Nigiddy/Mpesa_Based-WiFi-Billing-System)** | Payment-integrated automation tool designed to streamline user workflows. | `Node.js` `Express` `PostgreSQL` | [Live Demo](#) • [Source Code](#) |
+| **[MlamiBBQ](https://github.com/Nigiddy/mlami-bbq-website-magic)** | A QR code-based ordering system for restaurants. | `React` `Typescript` `Supabase` | [Live Demo](https://mlamibbq.vercel.app/) |
+| **[Qonnect](https://github.com/Nigiddy/Mpesa_Based-WiFi-Billing-System)** | A WiFi billing system that allows users to purchase internet access via MPesa payments (STK Push). | `React` `Node.js` `Express` `PostgreSQL` | [Live Demo](https://qonnectkibaruani.vercel.app/) • [Source Code](https://github.com/Nigiddy/Mpesa_Based-WiFi-Billing-System) |
 
-*(Note: Replace the placeholders above with your actual top repositories to drive traffic to your code!)*
 
 ---
 
@@ -61,7 +57,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nigiddy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="GitHub Stats" />
@@ -74,9 +70,9 @@
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-I'm currently open for full-stack development roles, freelance backend/API contracts, and open-source collaborations. If you're building something interesting, let's talk.
+I'm currently open for frontend development roles, freelance backend/API contracts, and open-source collaborations. If you're building something interesting, let's talk.
 
 <div align="center">
 
