@@ -18,7 +18,7 @@
 
 ##  Quick Look
 
-*  **Currently working on:** [MlamiBBQ](https://mlamibbq.vercel.app/)
+*  **Currently working on:** [MlamiBBQ --SaaS version](https://mlamibbq.vercel.app/)
 *  **Deepening my expertise in:** Full-stack architecture, scalable SaaS, and AI workflows.
 *  **Ask me about:** React/Next.js, Node.js, Payment Integrations (M-Pesa, Stripe), and System Design. 
 ---
