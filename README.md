@@ -27,7 +27,7 @@
 
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[MlamiBBQ](https://github.com/Nigiddy/mlami-bbq-website-magic)** | A QR code-based ordering system for restaurants. | `React` `Typescript` `Supabase` | [Live Demo](https://mlamibbq.vercel.app/) |
+| **[MlamiBBQ](https://mlamibbq.vercel.app/)** | A QR code-based ordering system for restaurants. | `React` `Typescript` `Supabase` | [Live Demo](https://mlamibbq.vercel.app/) |
 | **[Qonnect](https://github.com/Nigiddy/Mpesa_Based-WiFi-Billing-System)** | A WiFi billing system that allows users to purchase internet access via MPesa payments (STK Push). | `React` `Node.js` `Express` `PostgreSQL` | [Live Demo](https://qonnectkibaruani.vercel.app/) • [Source Code](https://github.com/Nigiddy/Mpesa_Based-WiFi-Billing-System) |
 
 
