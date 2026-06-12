@@ -18,7 +18,7 @@
 
 ##  Quick Look
 
-*  **Currently working on:** [MlamiBBQ --SaaS version](https://mlamibbq.vercel.app/)
+*  **Currently working on:** [MlamiBBQ](https://mlami-demo.vercel.app/)
 *  **Deepening my expertise in:** Full-stack architecture, scalable SaaS, and AI workflows.
 *  **Ask me about:** React/Next.js, Node.js, Payment Integrations (M-Pesa, Stripe), and System Design. 
 ---
@@ -27,7 +27,7 @@
 
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[MlamiBBQ](https://mlamibbq.vercel.app/)** | A QR code-based ordering system for restaurants. | `React` `Typescript` `Supabase` | [Live Demo](https://mlamibbq.vercel.app/) |
+| **[MlamiBBQ](https://mlami-demo.vercel.app/)** | A QR code-based ordering system for restaurants. | `React` `Typescript` `Supabase` | [Live Demo](https://mlami-demo.vercel.app/) |
 | **[Qonnect](https://github.com/Nigiddy/Mpesa_Based-WiFi-Billing-System)** | A WiFi billing system that allows users to purchase internet access via MPesa payments (STK Push). | `React` `Node.js` `Express` `PostgreSQL` | [Live Demo](https://qonnectkibaruani.vercel.app/) • [Source Code](https://github.com/Nigiddy/Mpesa_Based-WiFi-Billing-System) |
 
 
