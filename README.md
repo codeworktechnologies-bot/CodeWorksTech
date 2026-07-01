@@ -2,24 +2,22 @@
 
 # CodeWorks Technologies
 
-### Engineering Modern Software Solutions
+### Engineering Digital Solutions for Business Growth
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Welcome+to+CodeWorks+Technologies;Full-Stack+Development;Product+Engineering;Open-Source+Contributions;Building+Software+That+Solves+Real+Problems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Welcome+to+CodeWorks+Technologies;Full-Stack+Software+Development;Web+%26+Cloud+Solutions;Enterprise+Applications;Innovating+Through+Technology" alt="Typing SVG" />
 </a>
 
 <p align="center">
-We design and build scalable, secure, and high-performance software for businesses, startups, and organizations.
-From modern web applications and SaaS platforms to payment integrations, automation solutions, and enterprise APIs,
-our focus is delivering technology that creates measurable business value.
+CodeWorks Technologies is a software development company delivering secure, scalable, and innovative digital solutions. We help businesses and organizations build modern web applications, cloud solutions, APIs, and custom software that drive growth and digital transformation.
 </p>
 
 <p align="center">
-<strong>Full-Stack Development</strong> •
-<strong>Product Engineering</strong> •
-<strong>API Development</strong> •
-<strong>SaaS Solutions</strong> •
-<strong>Cloud Applications</strong>
+<strong>Web Development</strong> •
+<strong>Cloud Solutions</strong> •
+<strong>API Integration</strong> •
+<strong>UI/UX Design</strong> •
+<strong>Business Automation</strong>
 </p>
 
 ---
@@ -55,12 +53,6 @@ our focus is delivering technology that creates measurable business value.
 <a href="https://wa.me/254748018000">
 <img src="https://img.shields.io/badge/WhatsApp-+254748018000-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=codeworktechnologies-bot&style=for-the-badge&color=0EA5E9" />
 
 </p>
 
